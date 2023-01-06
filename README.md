@@ -1,19 +1,22 @@
-### Hi, I'm astonishqft
+# Hi, I'm astonishqft
+<p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=astonishqft.visitor-badge&left_color=red&right_color=green&" alt="visitor badge"/></p>
+I am a Fullstack developer from Nanjing, China. 
 
-I am a Fullstack developer from Nanjing, China. <p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=astonishqft.visitor-badge&left_color=red&right_color=green&" alt="visitor badge"/></p>
+### Languages
 
-**astonishqft/astonishqft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-Here are some ideas to get you started:
+### Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+
 
 ### GitHub Stats
 
