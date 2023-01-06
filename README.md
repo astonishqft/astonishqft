@@ -1,6 +1,7 @@
 # Hi, I'm astonishqft
+<p  align="right"><a href="https://raw.githubusercontent.com/astonishqft/astonishqft/master/imgs/wechat-qr-code.png"><img src="imgs/wechat.svg" alt="微信"></a></p>
 <p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=astonishqft.visitor-badge&left_color=red&right_color=green&" alt="visitor badge"/></p>
-I am a Fullstack developer from Nanjing, China. 
+<p align="center">I am a Fullstack developer from Nanjing, China. </p>
 
 ### Languages
 
@@ -11,8 +12,12 @@ I am a Fullstack developer from Nanjing, China.
 
 ### Technologies
 
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue)
+![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=webpack)
+![Git](https://img.shields.io/badge/-git-000?&logo=git)
+![HTML5](https://img.shields.io/badge/-Html5-000?&logo=Html5)
+![CSS3](https://img.shields.io/badge/-Css3-000?&logo=Css3)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
