@@ -1,4 +1,4 @@
-# Hi, I'm astonishqft
+# <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">Hi, I'm astonishqft
 <p align="right">
 <a href="https://raw.githubusercontent.com/astonishqft/astonishqft/master/imgs/wechart_qr.jpeg"><img style="height: 22px" src="imgs/wechat.svg" alt="微信"></a>
 <img style="height: 22px" src="https://img.shields.io/github/followers/astonishqft?label=follow&style=social" alt="github starts"/>
