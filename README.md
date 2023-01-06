@@ -1,9 +1,10 @@
 # Hi, I'm astonishqft
 <p align="right">
 <a href="https://raw.githubusercontent.com/astonishqft/astonishqft/master/imgs/wechart_qr.jpeg"><img style="height: 22px" src="imgs/wechat.svg" alt="微信"></a>
+<img style="height: 22px" src="https://img.shields.io/github/followers/astonishqft?label=follow&style=social" alt="github starts"/>
 <img style="height: 22px" src="https://visitor-badge.laobi.icu/badge?page_id=astonishqft.visitor-badge&left_color=red&right_color=green&" alt="visitor badge"/>
 </p>
-
+  
 <p align="center">I am a Fullstack developer from Nanjing, China. </p>
 
 ### Languages
