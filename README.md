@@ -33,4 +33,4 @@
 
 ### WeChat
 
-<img alt="" src="https://raw.githubusercontent.com/astonishqft/astonishqft/master/imgs/wechart_qr.jpeg" />
+<img style="width: 220px" alt="" src="https://raw.githubusercontent.com/astonishqft/astonishqft/master/imgs/wechart_qr.jpeg" />
